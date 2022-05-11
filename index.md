@@ -5,6 +5,20 @@ title: Miguel Cardoso's CV
 # Miguel Cardoso
 Physics Engineer
 
+\documentclass[english,a4paper]{europasscv}
+
+\ecvname{Miguel Ângelo de Oliveira Simões Cardoso}
+\ecvaddress{Rua Júlio da Vila nº133, 3060-586 Tocha}
+% \ecvtelephone[+351 936387034]{}
+\ecvtelephone[(+351) 914 340 798]{}
+\ecvemail{cardosomiguel@ua.pt}
+\ecvdateofbirth{30 August 1996}
+\ecvnationality{Portuguese}
+\ecvgender{Male}
+
+\begin{document}
+  \begin{europasscv}
+  
   \ecvsection{Education and training}
   
 \ecvtitlelevel{2017--2021}{Master in Physics Engineering}{ISCED 5}
@@ -22,6 +36,9 @@ Physics Engineer
       \end{ecvitemize}
   }
 
+  \end{europasscv}
+
+\end{document}
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
