@@ -9,28 +9,30 @@ title: Miguel Cardoso's CV
 | <a href="http://miguelangelooscardoso.github.io">My github page</a>
 </div>
 
-%% Education
+## Work Experience
 
-\marginhead{\sffamily {{\vskip -0.23em} education}}
+`September 2019 -- February 2020`
+\textbf{Research Fellow}
 
-%\noindent\emph{Princeton University \vspace{0.01in}}
+  \ecvitem{}{Reseach fellow within the scope of the FCT project entitled “PORTUGAL at ISOLDE: Research in Isotope and Nuclear Physics of Materials and Radioactive Techniques (Ref. CERN / FIS-PAR / 0005/2017), funded by general public funds from FCT / MEC and when it is co-financed ERDF under the PT2020 Partnership Agreement, supervised by Dr. João Nuno Gonçalves.} 
 
-\ind Ph.D, Sociology, Princeton University, 2001.
+  \ecvitem{}{Hexagonal and orthorhombic LuFeO$_3$ experimental structures, as well as Lu$_3$Fe$_5$O$_{12}$ experimental compound, were the targets of density of states and band structures calculations. Besides calculations, hyperfine properties and techniques were objects of study.}
 
-\ind \hspace{0.35in} \footnotesize Dissertation: \emph{Exchange in Blood and Organs}.\newline Winner, American Sociological Association's Dissertation Award.\normalsize \vspace{0.05in}
+`October 2018 -- January 2021`
 
-\ind M.A., Sociology, Princeton University, 1998. 
+\textbf{Master's dissertation}
+  
+  \ecvitem{}{Computational study of critical thermodynamics properties of magnetic materials with the scope on Heusler alloys for application in energy, namely in magnetic refrigeration, using Density Functional Theory tools such as the spin-polarized relativistic Korringa-Kohn-Rostoker code (SPR-KKR) and Vienna Ab initio Simulation Package (VASP).}
+ 
+  \ecvitem{}{Computational tools were employed to gain insight into the Curie Temperature (T$_{C}$) versus Ge content (x) behaviour, separating the structural contribution (change in lattice parameters) from the chemical contribution (solid solution composition). The computational results were then compared to recent experimental work from the group of prof. Mario Reis from Institute of Physics, Fluminense Federal University recently published in Journal of Alloys and Compounds 893 (2021) 162236.}
+  
+ `February 2017 -- July 2017`
 
-%\medskip
-%\noindent\emph{National University of Ireland (Cork)\vspace{0.02in}}
+\textbf{Bachelor's project}
 
-\ind M.A., Sociology, First Class, National University of Ireland (Cork), 1994.
-
-\ind \hspace{0.35in} \footnotesize Thesis: \emph{The Language of Influence: Public Debate and the Politics of the X-case.} \normalsize \vspace{0.01in}
-
-\ind B.A. (Joint Hons.), First Class, National University of Ireland (Cork), 1993.
-
-\bigskip
+  \ecvitem{}{Numerical study of heat propagation in an one-dimensional bar using MatLab.}
+  
+   \ecvitem{}{The heat propagation equation was deducted and implemented in MatLab using implicit/explicit Euler and Crank-Nicolson methods for several boundary conditions and materials. }
 
 ## Currently
 
