@@ -39,9 +39,7 @@ The heat propagation equation was deducted and implemented in MatLab using impli
 
 `Sept 2017 -- Jan 2021`
 
-**Master in Physics Engineering{ISCED 5}**
-
-S<span class="underlined"> Some underline text</span>
+**Master in Physics Engineering (ISCED 5)**
 
 Theoretical and Computational Physics
 
@@ -49,7 +47,7 @@ University of Aveiro, Portugal
 
 `Sept 2014 -- Jul 2017`
 
-**Bachelor of Science in Physics Engineering{ISCED 4}**
+**Bachelor of Science in Physics Engineering (ISCED 4)**
 
 Theoretical and Computational Physics
 
