@@ -12,7 +12,9 @@ title: Miguel Cardoso's CV
 ## Work Experience
 
 `September 2019 -- February 2020`
+
 **Research Fellow**
+
 Reseach fellow within the scope of the FCT project entitled “PORTUGAL at ISOLDE: Research in Isotope and Nuclear Physics of Materials and Radioactive Techniques (Ref. CERN / FIS-PAR / 0005/2017), funded by general public funds from FCT / MEC and when it is co-financed ERDF under the PT2020 Partnership Agreement, supervised by Dr. João Nuno Gonçalves.
 
   Hexagonal and orthorhombic LuFeO$_3$ experimental structures, as well as Lu$_3$Fe$_5$O$_{12}$ experimental compound, were the targets of density of states and band structures calculations. Besides calculations, hyperfine properties and techniques were objects of study.
