@@ -12,27 +12,26 @@ title: Miguel Cardoso's CV
 ## Work Experience
 
 `September 2019 -- February 2020`
-\textbf{Research Fellow}
+**Research Fellow**
+Reseach fellow within the scope of the FCT project entitled “PORTUGAL at ISOLDE: Research in Isotope and Nuclear Physics of Materials and Radioactive Techniques (Ref. CERN / FIS-PAR / 0005/2017), funded by general public funds from FCT / MEC and when it is co-financed ERDF under the PT2020 Partnership Agreement, supervised by Dr. João Nuno Gonçalves.
 
-  \ecvitem{}{Reseach fellow within the scope of the FCT project entitled “PORTUGAL at ISOLDE: Research in Isotope and Nuclear Physics of Materials and Radioactive Techniques (Ref. CERN / FIS-PAR / 0005/2017), funded by general public funds from FCT / MEC and when it is co-financed ERDF under the PT2020 Partnership Agreement, supervised by Dr. João Nuno Gonçalves.} 
-
-  \ecvitem{}{Hexagonal and orthorhombic LuFeO$_3$ experimental structures, as well as Lu$_3$Fe$_5$O$_{12}$ experimental compound, were the targets of density of states and band structures calculations. Besides calculations, hyperfine properties and techniques were objects of study.}
+  Hexagonal and orthorhombic LuFeO$_3$ experimental structures, as well as Lu$_3$Fe$_5$O$_{12}$ experimental compound, were the targets of density of states and band structures calculations. Besides calculations, hyperfine properties and techniques were objects of study.
 
 `October 2018 -- January 2021`
 
-\textbf{Master's dissertation}
+**Master's dissertation**
   
-  \ecvitem{}{Computational study of critical thermodynamics properties of magnetic materials with the scope on Heusler alloys for application in energy, namely in magnetic refrigeration, using Density Functional Theory tools such as the spin-polarized relativistic Korringa-Kohn-Rostoker code (SPR-KKR) and Vienna Ab initio Simulation Package (VASP).}
+Computational study of critical thermodynamics properties of magnetic materials with the scope on Heusler alloys for application in energy, namely in magnetic refrigeration, using Density Functional Theory tools such as the spin-polarized relativistic Korringa-Kohn-Rostoker code (SPR-KKR) and Vienna Ab initio Simulation Package (VASP).
  
-  \ecvitem{}{Computational tools were employed to gain insight into the Curie Temperature (T$_{C}$) versus Ge content (x) behaviour, separating the structural contribution (change in lattice parameters) from the chemical contribution (solid solution composition). The computational results were then compared to recent experimental work from the group of prof. Mario Reis from Institute of Physics, Fluminense Federal University recently published in Journal of Alloys and Compounds 893 (2021) 162236.}
+  Computational tools were employed to gain insight into the Curie Temperature (T$_{C}$) versus Ge content (x) behaviour, separating the structural contribution (change in lattice parameters) from the chemical contribution (solid solution composition). The computational results were then compared to recent experimental work from the group of prof. Mario Reis from Institute of Physics, Fluminense Federal University recently published in Journal of Alloys and Compounds 893 (2021) 162236.
   
  `February 2017 -- July 2017`
 
-\textbf{Bachelor's project}
+**Bachelor's project**
 
-  \ecvitem{}{Numerical study of heat propagation in an one-dimensional bar using MatLab.}
+Numerical study of heat propagation in an one-dimensional bar using MatLab.
   
-   \ecvitem{}{The heat propagation equation was deducted and implemented in MatLab using implicit/explicit Euler and Crank-Nicolson methods for several boundary conditions and materials. }
+  The heat propagation equation was deducted and implemented in MatLab using implicit/explicit Euler and Crank-Nicolson methods for several boundary conditions and materials.
 
 ## Currently
 
