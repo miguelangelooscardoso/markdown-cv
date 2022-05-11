@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: Miguel Cardoso's CV
 ---
 # Miguel Cardoso
