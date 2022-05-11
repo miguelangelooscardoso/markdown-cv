@@ -35,6 +35,18 @@ Numerical study of heat propagation in an one-dimensional bar using MatLab.
   
   The heat propagation equation was deducted and implemented in MatLab using implicit/explicit Euler and Crank-Nicolson methods for several boundary conditions and materials.
 
+## Education and training
+
+`2017--2021`
+**Master in Physics Engineering{ISCED 5}**
+Theoretical and Computational Physics
+University of Aveiro, Portugal
+`2014--2017`
+
+**Bachelor of Science in Physics Engineering{ISCED 4}**
+Theoretical and Computational Physics
+University of Aveiro, Portugal
+
 ## Currently
 
 Standing on the shoulders of giants
