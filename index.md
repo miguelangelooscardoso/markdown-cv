@@ -25,7 +25,7 @@ $\qquad$ Hexagonal and orthorhombic LuFeO$_3$ experimental structures, as well a
   
 Computational study of critical thermodynamics properties of magnetic materials with the scope on Heusler alloys for application in energy, namely in magnetic refrigeration, using Density Functional Theory tools such as the spin-polarized relativistic Korringa-Kohn-Rostoker code (SPR-KKR) and Vienna Ab initio Simulation Package (VASP).
  
-  Computational tools were employed to gain insight into the Curie Temperature (T$_{C}$) versus Ge content (x) behaviour, separating the structural contribution (change in lattice parameters) from the chemical contribution (solid solution composition). The computational results were then compared to recent experimental work from the group of prof. Mario Reis from Institute of Physics, Fluminense Federal University recently published in Journal of Alloys and Compounds 893 (2021) 162236.
+\ind Computational tools were employed to gain insight into the Curie Temperature (T$_{C}$) versus Ge content (x) behaviour, separating the structural contribution (change in lattice parameters) from the chemical contribution (solid solution composition). The computational results were then compared to recent experimental work from the group of prof. Mario Reis from Institute of Physics, Fluminense Federal University recently published in Journal of Alloys and Compounds 893 (2021) 162236.
   
  `Feb 2017 -- Jul 2017`
 
