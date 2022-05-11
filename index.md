@@ -41,6 +41,8 @@ The heat propagation equation was deducted and implemented in MatLab using impli
 
 **Master in Physics Engineering{ISCED 5}**
 
+<span style="blabla: underline">some underlined text</span>
+
 Theoretical and Computational Physics
 
 University of Aveiro, Portugal
