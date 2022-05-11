@@ -1,9 +1,27 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Miguel Cardoso's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Miguel Cardoso
+Physics Engineer
+
+  \ecvsection{Education and training}
+  
+\ecvtitlelevel{2017--2021}{Master in Physics Engineering}{ISCED 5}
+  \ecvitem{}{University of Aveiro, Portugal}
+  \ecvitem{}{
+      \begin{ecvitemize}
+	\item Theoretical and Computational Physics
+      \end{ecvitemize}
+}
+  \ecvtitlelevel{2014--2017}{Bachelor of Science in Physics Engineering}{ISCED 4}
+  \ecvitem{}{University of Aveiro, Portugal}
+  \ecvitem{}{
+      \begin{ecvitemize}
+	\item Theoretical and Computational Physics
+      \end{ecvitemize}
+  }
+
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
