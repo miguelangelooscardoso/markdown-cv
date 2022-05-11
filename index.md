@@ -58,7 +58,7 @@ University of Aveiro, Portugal
 ## Publications
 
 B. Pimentel, V.M. Andrade, V.G. de Paula, K.R. Pirota, F. Béron, M.A. Cardoso, J.N. Gonçalves, J. S. Amaral, A.M. dos Santos, M.S. Reis,
-Cubic to hexagonal tuning in Fe$_2$Mn(Si$_{1−x}$Ge$_{x}$) Heusler alloys,
+Cubic to hexagonal tuning in Fe$$_2$$Mn(Si$$_{1−x}$$Ge$$_{x}$$) Heusler alloys,
 Journal of Alloys and Compounds,
 Volume 893,
 2022,
