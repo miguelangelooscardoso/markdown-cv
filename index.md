@@ -6,7 +6,7 @@ title: Miguel Cardoso's CV
 
 <div id="webaddress">
 <a href="cardosomiguel@ua.pt">cardosomiguel@ua.pt</a>
-| <a href="http://miguelangelooscardoso.github.io">My github page</a>
+| <a href="http://miguelangelooscardoso.github.io">miguelangelooscardoso.github.io</a>
 </div>
 
 ## Work Experience
