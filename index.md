@@ -3,48 +3,34 @@ layout: cv
 title: Miguel Cardoso's CV
 ---
 # Miguel Cardoso
-Physics Engineer
-
-\documentclass[english,a4paper]{europasscv}
-
-\ecvname{Miguel Ângelo de Oliveira Simões Cardoso}
-\ecvaddress{Rua Júlio da Vila nº133, 3060-586 Tocha}
-% \ecvtelephone[+351 936387034]{}
-\ecvtelephone[(+351) 914 340 798]{}
-\ecvemail{cardosomiguel@ua.pt}
-\ecvdateofbirth{30 August 1996}
-\ecvnationality{Portuguese}
-\ecvgender{Male}
-
-\begin{document}
-  \begin{europasscv}
-  
-  \ecvsection{Education and training}
-  
-\ecvtitlelevel{2017--2021}{Master in Physics Engineering}{ISCED 5}
-  \ecvitem{}{University of Aveiro, Portugal}
-  \ecvitem{}{
-      \begin{ecvitemize}
-	\item Theoretical and Computational Physics
-      \end{ecvitemize}
-}
-  \ecvtitlelevel{2014--2017}{Bachelor of Science in Physics Engineering}{ISCED 4}
-  \ecvitem{}{University of Aveiro, Portugal}
-  \ecvitem{}{
-      \begin{ecvitemize}
-	\item Theoretical and Computational Physics
-      \end{ecvitemize}
-  }
-
-  \end{europasscv}
-
-\end{document}
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="cardosomiguel@ua.pt">cardosomigue@ua.pt</a>
+| <a href="http://miguelangelooscardoso.github.io">My github page</a>
 </div>
 
+%% Education
+
+\marginhead{\sffamily {{\vskip -0.23em} education}}
+
+%\noindent\emph{Princeton University \vspace{0.01in}}
+
+\ind Ph.D, Sociology, Princeton University, 2001.
+
+\ind \hspace{0.35in} \footnotesize Dissertation: \emph{Exchange in Blood and Organs}.\newline Winner, American Sociological Association's Dissertation Award.\normalsize \vspace{0.05in}
+
+\ind M.A., Sociology, Princeton University, 1998. 
+
+%\medskip
+%\noindent\emph{National University of Ireland (Cork)\vspace{0.02in}}
+
+\ind M.A., Sociology, First Class, National University of Ireland (Cork), 1994.
+
+\ind \hspace{0.35in} \footnotesize Thesis: \emph{The Language of Influence: Public Debate and the Politics of the X-case.} \normalsize \vspace{0.01in}
+
+\ind B.A. (Joint Hons.), First Class, National University of Ireland (Cork), 1993.
+
+\bigskip
 
 ## Currently
 
